@@ -25,4 +25,8 @@
     create a directory named 
     my_first_directory in /tmp/
 
+7-movethatfile -
+    move a file named betty from /tmp/ to
+    /tmp/my_first_directory
+
 

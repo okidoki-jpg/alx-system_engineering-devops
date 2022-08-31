@@ -1,0 +1,1 @@
+script displaying current directory

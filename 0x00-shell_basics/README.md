@@ -29,4 +29,8 @@
     move a file named betty from /tmp/ to
     /tmp/my_first_directory
 
+8-firstdelete -
+    delete a file named betty from
+    tmo/my_first_directory
+
 

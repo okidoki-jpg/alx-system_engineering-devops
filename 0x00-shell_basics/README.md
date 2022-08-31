@@ -15,3 +15,8 @@
 4-listmorefiles - 
     display all files (including hidden)
     in current directory in long format
+
+5-listfilesdigitonly -
+    display all files (including hidden)
+    in current directory long format
+    with user and group ID

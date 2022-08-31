@@ -20,3 +20,9 @@
     display all files (including hidden)
     in current directory long format
     with user and group ID
+
+6-firstdirectory -
+    create a directory named 
+    my_first_directory in /tmp/
+
+

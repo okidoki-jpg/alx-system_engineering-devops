@@ -10,3 +10,8 @@
 3-new_owner -
     transfer ownership of file 'hello' to
     betty
+
+4-empty -
+    create an empty file titled 'hello'
+
+

@@ -41,4 +41,11 @@
     change directory to previous working
     directory
 
+11-lists -
+    list all files (including hidden) in
+    the current directory, the parent of
+    the working directory and the /boot
+    directory (in this order), in long
+    format.
+
 

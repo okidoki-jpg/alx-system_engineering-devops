@@ -27,4 +27,10 @@
 7-everybody -
     add execution permissions to everyone
 
+8-James_Bond -
+    strip all permissions from owner and
+    group owner of 'hello'. give full
+    permissions to everyone else.
+
+
 

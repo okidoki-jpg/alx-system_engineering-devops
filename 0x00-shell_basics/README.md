@@ -67,3 +67,9 @@
 
 101-clean_emacs -
     remove all files ending with '~'
+
+102-tree -
+    create the tree "welcome/to/school"
+    in current directory
+
+

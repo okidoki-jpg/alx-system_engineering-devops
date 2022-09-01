@@ -57,4 +57,8 @@
     group owner to 'staff' for all files
     and directories in current dirrectory
 
+101-symbolic_link_permissions -
+    change user and group owner of _hello
+    to 'vincent' & 'staff' respevtively
+
 

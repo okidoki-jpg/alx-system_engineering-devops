@@ -40,4 +40,8 @@
     give hello the same permissions as
     olleh
 
+11-directories_permissions
+    give executable permissions to all
+    subdirectories only
+
 

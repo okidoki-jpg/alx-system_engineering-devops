@@ -14,4 +14,8 @@
 4-empty -
     create an empty file titled 'hello'
 
+5-execute -
+    add execute permissions to owner of
+    '5-execute'
+
 

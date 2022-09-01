@@ -24,4 +24,7 @@
     'hello' and read permission to the
     rest
 
+7-everybody -
+    add execution permissions to everyone
+
 

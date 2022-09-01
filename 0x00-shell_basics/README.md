@@ -48,4 +48,8 @@
     directory (in this order), in long
     format.
 
+12-file_type -
+    display what type of file 'iamfile',
+    located in /tmp/, is
+
 

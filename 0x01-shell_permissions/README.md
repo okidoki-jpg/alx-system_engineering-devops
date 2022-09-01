@@ -18,4 +18,10 @@
     add execute permissions to owner of
     the file 'hello'
 
+6-multiple_permissions -
+    give read + execute permissions to
+    user and group owner of the file
+    'hello' and read permission to the
+    rest
+
 

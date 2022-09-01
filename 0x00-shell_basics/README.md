@@ -49,7 +49,7 @@
     format.
 
 12-file_type -
-    display what type of file 'iamfile',
+    display what type of file 'iamafile',
     located in /tmp/, is
 
 

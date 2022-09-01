@@ -40,8 +40,12 @@
     give hello the same permissions as
     olleh
 
-11-directories_permissions
+11-directories_permissions -
     give executable permissions to all
     subdirectories only
+
+12-directory_permissions -
+    create a directory 'my_dir' with the
+    permissions 751
 
 

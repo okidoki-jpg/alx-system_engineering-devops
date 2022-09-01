@@ -36,3 +36,8 @@
     change 'hello' permissions to 
     -rwxr-x-wx
 
+10-mirror_permissions -
+    give hello the same permissions as
+    olleh
+
+

@@ -52,4 +52,9 @@
     display what type of file 'iamafile',
     located in /tmp/, is
 
+13-symbolic_link -
+    create symbolic link to ls saved as
+    __ls__ in current directory
+
+
 

@@ -6,3 +6,7 @@
 
 2-groups -
     display groups that active user is in
+
+3-new_owner -
+    transfer ownership of file 'hello' to
+    betty

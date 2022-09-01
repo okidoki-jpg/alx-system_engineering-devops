@@ -32,5 +32,7 @@
     group owner of 'hello'. give full
     permissions to everyone else.
 
-
+9-John_Doe -
+    change 'hello' permissions to 
+    -rwxr-x-wx
 

@@ -33,4 +33,6 @@
     delete a file named betty from
     tmo/my_first_directory
 
-
+9-firstdirdeletion -
+    delete a directory named 
+    my_first_directory from /tmp

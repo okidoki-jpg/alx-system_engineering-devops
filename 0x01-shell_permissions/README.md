@@ -51,3 +51,10 @@
 13-change_group -
     change group owner of 'hello' to 
     'school'
+
+100-change_owner_and_group -
+    change user owner to 'vincent' and
+    group owner to 'staff' for all files
+    and directories in current dirrectory
+
+

@@ -16,6 +16,6 @@
 
 5-execute -
     add execute permissions to owner of
-    '5-execute'
+    the file 'hello'
 
 

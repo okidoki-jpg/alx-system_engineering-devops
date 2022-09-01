@@ -65,4 +65,5 @@
     move all files beggining with
     uppercase letter to /tmp/u
 
-
+101-clean_emacs -
+    remove all files ending with '~'

@@ -46,7 +46,7 @@
     the current directory, the parent of
     the working directory and the /boot
     directory (in this order), in long
-    format.
+    format
 
 12-file_type -
     display what type of file 'iamafile',
@@ -55,6 +55,11 @@
 13-symbolic_link -
     create symbolic link to ls saved as
     __ls__ in current directory
+
+14-copy_html -
+   copy all newer/non existing html files
+   in parent directory from current
+   directory to parent directory
 
 
 

@@ -61,4 +61,8 @@
     change user and group owner of _hello
     to 'vincent' & 'staff' respevtively
 
+102-if_only -
+    change owner of hello to 'betty' if
+    it was owned by 'guillaume'
+
 

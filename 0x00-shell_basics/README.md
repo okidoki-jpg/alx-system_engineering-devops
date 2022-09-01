@@ -61,5 +61,8 @@
    in parent directory from current
    directory to parent directory
 
+100-lets_move -
+    move all files beggining with
+    uppercase letter to /tmp/u
 
 

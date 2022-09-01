@@ -72,4 +72,9 @@
     create the tree "welcome/to/school"
     in current directory
 
+103-commas -
+    list all files (including hidden)
+    seperated by commas, with directories
+    identified with '/'
+
 

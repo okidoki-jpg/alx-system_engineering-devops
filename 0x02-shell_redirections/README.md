@@ -49,3 +49,7 @@
 12-newest_files:
     list the 10 latest files in the
     directory
+
+13-unique:
+    display all unique values from list
+    input

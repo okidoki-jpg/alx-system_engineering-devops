@@ -46,4 +46,6 @@
     count all directories and
     subdirectories from current directory
 
-
+12-newest_files:
+    list the 10 latest files in the
+    directory

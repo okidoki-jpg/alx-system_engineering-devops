@@ -95,4 +95,7 @@
     display all empty files and 
     directories
 
-
+101-gifs:
+    display .gif files in current and 
+    subdirectories without the extension
+    sorted by bytes and name

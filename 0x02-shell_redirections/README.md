@@ -10,3 +10,7 @@
 3-twofiles:
     display /etc/passwd and /etc/hosts on
     standard display
+
+4-lastlines:
+    display the last 10 lines of
+    /etc/passwd on standard display

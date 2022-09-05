@@ -25,3 +25,8 @@
 6-third_line:
     display the 3rd line of the file
     iacta on the standard display
+
+7-file:
+    create the file "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
+
+

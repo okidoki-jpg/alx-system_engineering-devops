@@ -99,3 +99,7 @@
     display .gif files in current and 
     subdirectories without the extension
     sorted by bytes and name
+
+102-acrostic:
+    decode the acrotic by reading the
+    first letter of each line

@@ -60,5 +60,5 @@
 
 15-countthatword:
     count the number of lines the word
-    "root" appears in in the file
+    "bin" appears in in the file
     /etc/passwd

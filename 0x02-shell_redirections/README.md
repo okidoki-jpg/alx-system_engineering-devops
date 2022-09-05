@@ -83,3 +83,6 @@
 20-hiago:
     remove any instance of the letter C/c
     from the input
+
+21-reverse:
+    reverse the received input

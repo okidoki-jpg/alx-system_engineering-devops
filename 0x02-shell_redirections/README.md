@@ -33,3 +33,7 @@
     save the output of the command
     "ls -la" to a file named 
     ls_cwd_content
+
+9-duplicate_last_line:
+    copy and append the last line in 
+    iacta to itself 

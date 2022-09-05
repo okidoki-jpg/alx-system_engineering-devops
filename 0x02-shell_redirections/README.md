@@ -7,4 +7,6 @@
 2-hellofile:
     display /etc/passwd file on standard output
 
-
+3-twofiles:
+    display /etc/passwd and /etc/hosts on
+    standard display

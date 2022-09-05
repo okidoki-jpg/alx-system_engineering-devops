@@ -71,4 +71,7 @@
     display all lines without the word
     "bin" from /etc/passwd
 
-
+18-letteronly:
+    display all lines begining with
+    alphabets from the file
+    /etc/ssh/sshd_config

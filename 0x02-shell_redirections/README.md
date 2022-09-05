@@ -41,3 +41,9 @@
 10-no_more_js:
     remove all .js files that aren't 
     directories
+
+11-directories:
+    count all directories and
+    subdirectories from current directory
+
+

@@ -37,3 +37,7 @@
 9-duplicate_last_line:
     copy and append the last line in 
     iacta to itself 
+
+10-no_more_js:
+    remove all .js files that aren't 
+    directories

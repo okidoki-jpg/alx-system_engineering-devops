@@ -62,3 +62,7 @@
     count the number of lines the word
     "bin" appears in in the file
     /etc/passwd
+
+16-whatsnext:
+    for ever line where "root" occurs,
+    display that line and three more

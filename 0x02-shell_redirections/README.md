@@ -79,3 +79,7 @@
 19-AZ:
     convert the letters A and Z to 
     c and e respectively
+
+20-hiago:
+    remove any instance of the letter C/c
+    from the input

@@ -29,4 +29,7 @@
 7-file:
     create the file "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
 
-
+8-cwd_state:
+    save the output of the command
+    "ls -la" to a file named 
+    ls_cwd_content

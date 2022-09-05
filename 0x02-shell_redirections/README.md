@@ -90,3 +90,9 @@
 22-users_and_homes:
     display username and user home
     directories from /etc/passwd
+
+100-empty_casks:
+    display all empty files and 
+    directories
+
+

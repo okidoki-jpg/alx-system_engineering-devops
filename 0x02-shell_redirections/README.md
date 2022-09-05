@@ -86,3 +86,7 @@
 
 21-reverse:
     reverse the received input
+
+22-users_and_homes:
+    display username and user home
+    directories from /etc/passwd

@@ -75,3 +75,7 @@
     display all lines begining with
     alphabets from the file
     /etc/ssh/sshd_config
+
+19-AZ:
+    convert the letters A and Z to 
+    c and e respectively

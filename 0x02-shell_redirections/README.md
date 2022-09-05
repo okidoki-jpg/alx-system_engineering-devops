@@ -53,3 +53,7 @@
 13-unique:
     display all unique values from list
     input
+
+14-findthatword:
+    display all lines from /etc/passwd
+    containing the word "root"

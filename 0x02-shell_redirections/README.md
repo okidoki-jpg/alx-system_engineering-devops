@@ -66,3 +66,9 @@
 16-whatsnext:
     for ever line where "root" occurs,
     display that line and three more
+
+17-hidethisword:
+    display all lines without the word
+    "bin" from /etc/passwd
+
+

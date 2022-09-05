@@ -57,3 +57,8 @@
 14-findthatword:
     display all lines from /etc/passwd
     containing the word "root"
+
+15-countthatword:
+    count the number of lines the word
+    "root" appears in in the file
+    /etc/passwd

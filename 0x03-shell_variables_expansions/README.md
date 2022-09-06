@@ -13,4 +13,8 @@
     count the number of paths
 
 4-global_variables:
-    print enviroment variables
+    print environment variables
+
+5-local_variables:
+    lists all local and environment 
+    variables, and functions

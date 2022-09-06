@@ -25,4 +25,8 @@
 
 7-create_global_variable:
     create global variable named "BEST"
-    with the value "Scho"
+    with the value "School"
+
+8-true_knowledge:
+    print sum of 128 and the value at
+    $TRUEKNOWLEDGE

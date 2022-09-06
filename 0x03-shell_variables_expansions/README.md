@@ -39,4 +39,8 @@
     raise $BREATH to the power of 
     $LOVE
 
+11-binary_to_decimal:
+    convert $BINARY from base 10 to 
+    base 2
+
 

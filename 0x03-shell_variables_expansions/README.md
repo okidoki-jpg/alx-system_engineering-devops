@@ -35,4 +35,8 @@
     print the answer of $POWER divided
     by $DIVIDE
 
+10-love_exponent_breath:
+    raise $BREATH to the power of 
+    $LOVE
+
 

@@ -5,3 +5,8 @@
 1-hello_you:
     print "hello user" where user is the 
     current user
+
+2-path:
+    append /action to $PATH
+
+

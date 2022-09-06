@@ -9,4 +9,7 @@
 2-path:
     append /action to $PATH
 
+3-paths:
+    count the number of paths
+
 

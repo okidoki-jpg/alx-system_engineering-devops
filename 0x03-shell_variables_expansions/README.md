@@ -50,3 +50,6 @@
 13-print_float:
     print $NUM as a float up to 2
     decimal places
+
+100-decimal_to_hexadecimal:
+    convert $DECIMAL to hexadecimal

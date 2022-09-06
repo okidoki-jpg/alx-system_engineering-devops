@@ -53,3 +53,7 @@
 
 100-decimal_to_hexadecimal:
     convert $DECIMAL to hexadecimal
+
+101-rot13:
+    a script that encodes and decodes
+    text using rot13 based on ASCII

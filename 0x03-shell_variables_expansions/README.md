@@ -12,4 +12,5 @@
 3-paths:
     count the number of paths
 
-
+4-global_variables:
+    print enviroment variables

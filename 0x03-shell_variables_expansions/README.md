@@ -47,4 +47,6 @@
     print all combinations of two 
     lower case letters except "oo"
 
-
+13-print_float:
+    print $NUM as a float up to 2
+    decimal places

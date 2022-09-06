@@ -61,3 +61,8 @@
 102-odd:
     print odd lines from input starting
     with the first line
+
+103-water_and_stir:
+    add $WATER of base $water and $STIR
+    of base $stir., and output the 
+    result in base $bestchol

@@ -57,3 +57,7 @@
 101-rot13:
     a script that encodes and decodes
     text using rot13 based on ASCII
+
+102-odd:
+    print odd lines from input starting
+    with the first line

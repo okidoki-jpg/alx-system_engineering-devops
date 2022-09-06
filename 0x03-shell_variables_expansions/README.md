@@ -43,4 +43,8 @@
     convert $BINARY from base 10 to 
     base 2
 
+12-combinations:
+    print all combinations of two 
+    lower case letters except "oo"
+
 

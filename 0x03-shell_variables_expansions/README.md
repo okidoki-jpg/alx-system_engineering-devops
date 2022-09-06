@@ -30,3 +30,9 @@
 8-true_knowledge:
     print sum of 128 and the value at
     $TRUEKNOWLEDGE
+
+9-divide_and_rule:
+    print the answer of $POWER divided
+    by $DIVIDE
+
+

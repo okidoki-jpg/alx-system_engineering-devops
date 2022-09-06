@@ -18,3 +18,9 @@
 5-local_variables:
     lists all local and environment 
     variables, and functions
+
+6-create_local_variable:
+    create local variable named BEST
+    with the value "School"
+
+

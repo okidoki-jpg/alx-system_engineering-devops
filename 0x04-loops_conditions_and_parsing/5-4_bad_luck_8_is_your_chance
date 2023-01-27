@@ -6,7 +6,7 @@
 
 idx=1
 
-while [ $idx -ne 10 ]
+while [ $idx -le 10 ]
 do
 	if [ $idx -eq 4 ]
 	then

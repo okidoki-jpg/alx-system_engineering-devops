@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+idx=1
+
+while [ $idx -ne 10 ]
+do
+	if [ $idx == 4 ]
+	then
+		echo "bad luck"
+	elif [ $idx == 8 ]
+	then
+		echo "good luck"
+	else
+		echo "Best School"
+	fi
+	((idx++))
+done

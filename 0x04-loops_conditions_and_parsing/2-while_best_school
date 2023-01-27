@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+idx=0
+
+while [ $idx -lt 10 ]
+do
+	echo "Best School"
+	((idx++))
+done

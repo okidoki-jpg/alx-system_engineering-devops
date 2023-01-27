@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# display FizzBuzz in the range of 100
 
 idx=1
 

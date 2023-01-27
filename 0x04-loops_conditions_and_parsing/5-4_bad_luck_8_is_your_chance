@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+# loops 10 times using while
+# displays "bad luck" on line 4 
+# displays "good luck" on line 8
+# displays "Best School" on every other line
 
 idx=1
 

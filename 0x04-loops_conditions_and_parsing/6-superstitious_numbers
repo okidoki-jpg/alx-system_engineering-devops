@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
+# loops 20 times using while
+# displays "bad luck from China" on line 4 
+# displays "bad luck from Japan" on line 9
+# displays "bad luck from Italy" on line 17
+# display current index before any string
 
 idx=1
 

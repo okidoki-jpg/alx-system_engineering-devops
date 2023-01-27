@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# display a string indefinitely, sleep 2 seconds between itervals
+
+while true
+do
+	echo "To infinity and beyond"
+	sleep 2
+done

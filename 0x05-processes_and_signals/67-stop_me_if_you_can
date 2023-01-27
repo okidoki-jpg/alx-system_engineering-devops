@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# terminate 7-highlander process without using kill or killall
+
+pkill --full "7-highlander"

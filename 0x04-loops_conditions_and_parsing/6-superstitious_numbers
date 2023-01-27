@@ -10,13 +10,13 @@ idx=1
 while [ $idx -le 20 ]
 do
 	echo "$idx"
-	if [ $idx == 4 ]
+	if [ $idx -eq 4 ]
 	then
 		echo "bad luck from China"
-	elif [ $idx == 9 ]
+	elif [ $idx -eq 9 ]
 	then
 		echo "bad luck from Japan"
-	elif [ $idx == 17 ]
+	elif [ $idx -eq 17 ]
 	then
 		echo "bad luck from Italy"
 	fi

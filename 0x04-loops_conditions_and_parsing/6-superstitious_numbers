@@ -1,24 +1,24 @@
 #!/usr/bin/env bash
-# loops 20 times using while
+# loops 20 times using while, use "case"
 # displays "bad luck from China" on line 4 
 # displays "bad luck from Japan" on line 9
 # displays "bad luck from Italy" on line 17
 # display current index before any string
 
 idx=1
-
 while [ $idx -le 20 ]
 do
-	echo "$idx"
-	if [ $idx -eq 4 ]
-	then
-		echo "bad luck from China"
-	elif [ $idx -eq 9 ]
-	then
-		echo "bad luck from Japan"
-	elif [ $idx -eq 17 ]
-	then
-		echo "bad luck from Italy"
-	fi
-	((idx++))
+    echo $idx
+    case $idx in
+		4)
+			echo "bad luck from China"
+			;;
+		9)
+			echo "bad luck from Japan"
+			;;
+		17)
+			echo "bad luck from Italy"
+			;;
+    esac
+    ((idx++))
 done

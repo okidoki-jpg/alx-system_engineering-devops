@@ -1,3 +1,5 @@
+# Creates a file in /tmp with specific attributes
+
 file { '/tmp/school':
   ensure  => file,
   mode    => '0744',

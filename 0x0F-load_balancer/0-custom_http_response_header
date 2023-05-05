@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # modify nginx configuration with 404 page
+# shellcheck disable=SC2154
 
 apt-get update
 apt-get install -y nginx

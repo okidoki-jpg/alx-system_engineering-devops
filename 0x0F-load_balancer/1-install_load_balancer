@@ -2,8 +2,10 @@
 #configure HAProxy on lb-01 server
 
 # Install HAproxy
+apt-get -y install software-properties-common
+add-apt-repository -y ppa:vbernat/haproxy-2.0
 apt-get update
-apt-get install -y haproxy
+apt-get -y install haproxy=2.0.\*
 
 # Configure HAproxy
 printf '%s\n' "frontend http_front
@@ -15,6 +17,6 @@ backend http_back
     mode http
     balance roundrobin
     server web-01 18.204.8.121:80 check
-    server web-02 54.84.43.247:80 check" > /etc/haproxy/haproxy.cfg
+    server web-02 54.84.43.247:80 check" >> /etc/haproxy/haproxy.cfg
                                                                 # Start HAproxy service
-systemctl start haproxy
+service haproxy restart

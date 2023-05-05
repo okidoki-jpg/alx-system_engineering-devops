@@ -15,6 +15,6 @@ printf %s "
     backend http_back
       mode http
       balance roundrobin
-      server web-01 18.204.8.121-web-01:80
-      server web-02 54.84.43.247-web-02:80
+      server web-01 18.204.8.121:80 check
+      server web-02 54.84.43.247:80 check
 " > /etc/haproxy/haproxy.cfg

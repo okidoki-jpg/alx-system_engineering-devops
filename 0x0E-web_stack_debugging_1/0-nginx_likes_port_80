@@ -3,3 +3,4 @@
 
 sudo service nginx start
 sudo nginx -t && sudo nginx -s reload
+sudo service nginx restart

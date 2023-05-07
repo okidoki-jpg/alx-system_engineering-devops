@@ -1,0 +1,4 @@
+#!/bin/bash
+# configure nginx to listen to port 80
+
+service nginx start && service nginx stop

@@ -7,7 +7,7 @@ if [ -z "$1" ]; then
 fi
 
 # Run the whoami command for the specified user
-username=$(sudo -u "$1" whoami 2>/dev/null)
+username=$(sudo -u "$1" whoami)
 
 # Check if the specified user exists
 if [ ! "$username" ]; then

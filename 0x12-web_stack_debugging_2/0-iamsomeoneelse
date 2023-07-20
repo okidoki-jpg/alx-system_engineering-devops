@@ -2,4 +2,11 @@
 # Run whoami command with given user argument.
 
 # Run the whoami command for the specified user
-sudo -u "$1" whoami
+user="$(sudo -u "$1" whoami 2>/dev/null)"
+
+if [[ "$user" = "$1" ]]; then
+	echo $user
+else
+	echo "Unknown user: $1"
+	exit 1
+fi

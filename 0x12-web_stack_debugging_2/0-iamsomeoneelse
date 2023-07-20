@@ -10,7 +10,7 @@ fi
 username=$(sudo -u "$1" whoami 2>/dev/null)
 
 # Check if the specified user exists
-if [ ! "$?" ]; then
+if [ ! $username ]; then
   exit 1
 fi
 

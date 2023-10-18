@@ -31,7 +31,7 @@ if [ $? -ne 0 ]; then
 fi
 
 # Create a compressed archive
-tar -czvf "$ARCHIVE_NAME" "$DUMP_FILE"
+tar -czvf $ARCHIVE_NAME $DUMP_FILE
 
 if [ $? -ne 0 ]; then
     echo "Archive creation failed."

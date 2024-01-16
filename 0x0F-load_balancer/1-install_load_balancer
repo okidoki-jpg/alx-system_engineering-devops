@@ -16,7 +16,8 @@ printf '%s\n' "frontend http_front
 backend http_back
     mode http
     balance roundrobin
-    server web-01 18.204.8.121:80 check
-    server web-02 54.84.43.247:80 check" >> /etc/haproxy/haproxy.cfg
-                                                                # Start HAproxy service
+    server web-01 54.157.139.40:80 check
+    server web-02 34.229.184.203:80 check" >> /etc/haproxy/haproxy.cfg
+	
+# Start HAproxy service
 service haproxy restart
